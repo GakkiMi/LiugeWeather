@@ -1,0 +1,15 @@
+Index: app/src/main/java/com/liuge/liugeweather/MainActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/liuge/liugeweather/MainActivity.kt	(revision 4cdc5b1b35d6b2fbb13d951445b09cf2de7d3846)
++++ app/src/main/java/com/liuge/liugeweather/MainActivity.kt	(date 1605929097712)
+@@ -8,5 +8,6 @@
+     override fun onCreate(savedInstanceState: Bundle?) {
+         super.onCreate(savedInstanceState)
+         setContentView(R.layout.activity_main)
++        Log.i("", "----创建了分支");
+     }
+ }
+\ No newline at end of file
