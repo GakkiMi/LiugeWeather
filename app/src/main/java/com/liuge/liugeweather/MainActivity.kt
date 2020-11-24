@@ -13,7 +13,6 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"我是在新分支上开发的",Toast.LENGTH_SHORT).show()
         Log.i("MainActivity", "----哈哈哈")
         Log.i("MainActivity", "----master分支上改动了代码")
-
         Log.i("MainActivity", "----dev分支上改动了代码")
 
     }
