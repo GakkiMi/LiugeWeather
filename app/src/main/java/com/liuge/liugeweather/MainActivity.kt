@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.i("MainActivity", "--branchA--窗前明月光")
+        Log.i("MainActivity", "--branchA--举头望明月")
     }
 }
