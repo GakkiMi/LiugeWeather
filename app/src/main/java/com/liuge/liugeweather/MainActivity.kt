@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         Log.i("MainActivity", "--branchA--窗前明月光")
         Log.i("MainActivity", "--branchB--疑是地上霜")
         Log.i("MainActivity", "--branchA--举头望明月")
+        Log.i("MainActivity", "--branchB--低头思故乡")
     }
 }
