@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.i("MainActivity", "--branchA--11111")
         Log.i("MainActivity", "--branchA--22222")
+        Log.i("MainActivity", "--branchA--33333")
     }
 }
