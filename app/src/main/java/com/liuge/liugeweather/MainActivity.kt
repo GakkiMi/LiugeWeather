@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.i("MainActivity", "--branchA--11111")
+        Log.i("MainActivity", "--branchA--22222")
     }
 }
