@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
         Log.i("MainActivity", "--branchA--aaa")
         Log.i("MainActivity", "--branchA--bbb")
         Log.i("MainActivity", "--branchA--ccc")
-
+        Log.i("MainActivity", "--branchA--我又提交了一条")
     }
 }
