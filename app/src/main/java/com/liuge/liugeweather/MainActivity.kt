@@ -14,6 +14,9 @@ class MainActivity : AppCompatActivity() {
         Log.i("MainActivity", "--branchA--44444")
         Log.i("MainActivity", "--branchA--55555")
         Log.i("MainActivity", "--branchA--66666")
+        Log.i("MainActivity", "--branchA--aaa")
+        Log.i("MainActivity", "--branchA--bbb")
+        Log.i("MainActivity", "--branchA--ccc")
 
     }
 }
