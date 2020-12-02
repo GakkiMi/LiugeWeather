@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         Log.i("MainActivity", "--branchA--新增加了代码")
         Log.i("MainActivity", "--branchA--AAAAAA")
         Log.i("MainActivity", "--branchA--bbbbbb")
+        Log.i("MainActivity", "--branchA--ADADADFADFAF")
 
     }
 }
