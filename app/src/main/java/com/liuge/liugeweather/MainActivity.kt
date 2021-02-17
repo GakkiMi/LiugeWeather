@@ -5,16 +5,18 @@ import android.os.Bundle
 import android.util.Log
 
 class MainActivity : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
         Log.i("MainActivity", "--branchA--axiba")
-        Log.i("MainActivity", "--branchA--ccccccccc")
-        Log.i("MainActivity", "--branchA--新增加了代码")
-        Log.i("MainActivity", "--branchA--AAAAAA")
-        Log.i("MainActivity", "--branchA--bbbbbb")
-        Log.i("MainActivity", "--branchA--ADADADFADFAF")
+        val val_c: Int=0
+//        val_c = 1
+// val_c += 1 //因为c是常量，所以这句代码是会报错的
+        println("val_c => $val_c")
 
     }
+
+
 }

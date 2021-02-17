@@ -7,4 +7,14 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <style name="expandedStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FF5722</item>
+    </style>
+
+    <style name="collapsedStyle">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#009688</item>
+    </style>
 </resources>
